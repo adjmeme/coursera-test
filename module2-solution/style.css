@@ -142,8 +142,8 @@ font-size: 1.75em;
 .container{
 	background-color: #E4E4E4;
 	border: 1px solid black;
-    margin: 2.5%;
-    margin-top: 0px;
+    margin: 10px;
+    margin-top: 10px;
     word-break: break-all;
 	height: 150px;
 	overflow:auto;
